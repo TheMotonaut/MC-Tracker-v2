@@ -5,3 +5,4 @@ software/target/
 .vscode/
 __pycache__/
 *.pyc
+/target
