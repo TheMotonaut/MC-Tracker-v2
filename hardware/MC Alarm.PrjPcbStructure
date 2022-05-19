@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=nrf52840_qfaa.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=NRF9160.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=NRF52840.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Sensors and peripherals.SchDoc|SheetNumber=4

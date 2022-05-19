@@ -1,0 +1,5 @@
+Horn=Horn+,Horn-
+I2C=I2C_CLK,I2C_SDA
+LED_CTRL=Red,Green,Blue
+LED_OUT=Red,Green,Blue
+SIM=1V8,RST,CLK,IO
