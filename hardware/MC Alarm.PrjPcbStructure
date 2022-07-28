@@ -1,6 +1,6 @@
-Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=NRF9160.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=NRF52840.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Sensors and peripherals.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=9160|SchDesignator=9160|FileName=NRF9160.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=NRF9160.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=52840|SchDesignator=52840|FileName=NRF52840.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=NRF52840.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Conn|SchDesignator=Conn|FileName=Connectors.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Pow|SchDesignator=Pow|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Sens|SchDesignator=Sens|FileName=Sensors and peripherals.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sensors and peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
